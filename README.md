@@ -23,7 +23,7 @@ Follow this [link to set up a python environment ](https://gist.github.com/simon
 pip install pandas
 pip install numpy
 
-git clone https://github.com/KwobiaMtech/pdsnd_github
+git clone https://github.com/KwobiaMtech/bikeshare_data_analysis.git
 
 ensure system is running python3
 
